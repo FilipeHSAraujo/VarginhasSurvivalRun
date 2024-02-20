@@ -1,0 +1,1 @@
+draw_text(100,360,"Press SPACE to Start e Fly the UFO")
